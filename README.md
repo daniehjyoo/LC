@@ -1,4 +1,4 @@
 # LC
 
 Self work for Leetcode
-Mostly done in Python
+mostly done in Python
